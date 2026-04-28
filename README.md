@@ -33,13 +33,6 @@ Based on these inputs, ESP32 processes data and controls lighting automatically 
 - I2C, GPIO
 - Blynk IoT Cloud
 
-## Design Preview
-![Hardware Setup](images/setup.jpg)
-![Dashboard](images/dashboard.png)
-
-## Demo Video
-[![Watch Demo](images/setup.jpg)](https://your-youtube-link)
-
 ## Applications
 - Smart homes
 - Energy-efficient buildings
